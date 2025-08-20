@@ -1,0 +1,26 @@
+# Core
+pandas
+numpy
+
+# Embeddings and Language Models
+sentence-transformers
+transformers
+huggingface-hub
+
+# RAG & LLM integration
+langchain
+chromadb
+
+# UI
+gradio
+
+# For visualization during EDA
+matplotlib
+seaborn
+
+# Jupyter (for notebooks)
+jupyter
+
+
+# Ensure UTF-8 compatibility
+charset-normalizer>=3.0.0
