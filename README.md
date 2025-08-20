@@ -43,7 +43,7 @@ CrediTrust receives thousands of customer complaints monthly. Product Managers l
 
 ## Project Structure
 
-Intelligent-Complaint-Analysis/
+Naive-RAG-Chatbot/
 ├── App/
 │ ├── app.py
 │ └── ui_utils.py
@@ -77,8 +77,8 @@ Intelligent-Complaint-Analysis/
 
 ```bash
 # Clone the repo
-git clone https://github.com/abeladamushumet/intelligent-complaint-analysis.git
-cd intelligent-complaint-analysis
+git clone https://github.com/abeladamushumet/Naive-RAG-Chatbot.git
+cd Naive-RAG-Chatbot
 
 
 # Install dependencies
